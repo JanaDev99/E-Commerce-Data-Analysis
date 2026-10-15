@@ -1,0 +1,150 @@
+product_id,name,category,cost,price,stock_quantity,supplier
+1,Headphones 1,Electronics,138.65,219.74,295,"Hammond, Carroll and Austin"
+2,Headphones 2,Electronics,566.08,750.9,292,Ayala-Fleming
+3,Headphones 3,Electronics,862.34,1365.42,254,Bowen-Richmond
+4,Smartphone 1,Electronics,1301.72,89900.5,125,Christian-Summers
+5,Smartphone 2,Electronics,1619.14,2608.43,152,"Richardson, Frey and Donaldson"
+6,Smartphone 3,Electronics,934.41,1507.36,80,"Reynolds, Rivers and Smith"
+7,Smartphone 4,Electronics,907.23,1352.27,104,"Adams, Gibbs and Evans"
+8,Smartphone 5,Electronics,713.38,917.55,163,"Wilkinson, Tucker and Butler"
+9,Laptop 1,Electronics,1951.98,2495.53,189,Rogers PLC
+10,Laptop 2,Electronics,1054.21,1332.22,123,Weber PLC
+11,Laptop 3,Electronics,959.62,1305.55,126,Lopez Group
+12,Laptop 4,Electronics,324.71,399.51,196,"Reed, Rasmussen and Trevino"
+13,Laptop 5,Electronics,1735.12,2517.45,81,Buckley-Briggs
+14,Smartwatch 1,Electronics,1870.82,3054.44,97,Johnson-Steele
+15,Smartwatch 2,Electronics,1538.09,2305.53,263,"Harmon, Macias and Spencer"
+16,Smartwatch 3,Electronics,960.29,1658.85,254,"Everett, Maldonado and Soto"
+17,Smartwatch 4,Electronics,95.19,168.21,258,Campbell LLC
+18,Smartwatch 5,Electronics,941.6,1265.92,298,"Golden, Moore and Mcfarland"
+19,Tablet 1,Electronics,144.88,198.31,240,Parks Ltd
+20,Tablet 2,Electronics,607.21,731.63,55,"Russell, Moore and Ford"
+21,Tablet 3,Electronics,890.31,1539.77,187,Taylor-Vaughan
+22,Tablet 4,Electronics,1539.52,2185.44,205,Williams-Flores
+23,Tablet 5,Electronics,149.76,230.19,185,Allen-Lin
+24,Speaker 1,Electronics,193.39,290.58,281,Miller-Whitaker
+25,Speaker 2,Electronics,595.46,1067.93,60,Gonzalez and Sons
+26,Speaker 3,Electronics,300.89,378.52,191,"Ashley, Thomas and Winters"
+27,Speaker 4,Electronics,1600.05,2245.59,187,Ellis-Garcia
+28,Speaker 5,Electronics,1522.18,2008.42,260,Herring-Mendez
+29,T-Shirt 1,Fashion,1025.15,1258.05,70,Bray Inc
+30,T-Shirt 2,Fashion,1441.5,2425.15,265,Thomas-Wilson
+31,T-Shirt 3,Fashion,941.13,1471.7,263,Church-Johnson
+32,T-Shirt 4,Fashion,322.57,567.34,163,"Novak, Jones and Watson"
+33,T-Shirt 5,Fashion,366.88,658.32,153,"Johnson, Ingram and Hunter"
+34,T-Shirt 6,Fashion,1207.76,1816.94,260,"Winters, Smith and Taylor"
+35,Jeans 1,Fashion,1432.04,1976.04,8,Osborn-Marshall
+36,Jeans 2,Fashion,768.3,1232.57,213,Huang PLC
+37,Jeans 3,Fashion,1188.22,1993.9,13,"Davis, Price and Fischer"
+38,Jeans 4,Fashion,1213.97,1650.17,296,"Best, Hansen and King"
+39,Jeans 5,Fashion,1176.39,1920.86,298,"Tyler, Proctor and Brown"
+40,Jeans 6,Fashion,986.88,1494.67,194,Porter LLC
+41,Jacket 1,Fashion,1652.24,1494.67,293,Rios-Bryant
+42,Jacket 2,Fashion,1899.0,2404.01,9,Stewart-Boyle
+43,Jacket 3,Fashion,910.03,1320.7,211,Wright-Lewis
+44,Jacket 4,Fashion,1396.48,2019.63,241,Pearson-Ortiz
+45,Sneakers 1,Fashion,1426.26,2155.38,287,Jennings Inc
+46,Sneakers 2,Fashion,683.85,1092.34,269,"Benjamin, Horton and Hunter"
+47,Sneakers 3,Fashion,784.81,1392.26,235,Jackson PLC
+48,Dress 1,Fashion,1115.23,1790.53,135,Santiago-Colon
+49,Dress 2,Fashion,1239.65,1630.58,126,Moore-Nguyen
+50,Dress 3,Fashion,594.06,819.27,152,Martin-Austin
+51,Dress 4,Fashion,1553.79,2521.71,250,"Larson, Hernandez and Dillon"
+52,Dress 5,Fashion,668.23,941.72,140,"Miller, Nguyen and Moore"
+53,Cap 1,Fashion,287.65,461.96,194,"Maldonado, Avila and Blake"
+54,Cap 2,Fashion,1796.73,2581.4,176,Sanchez-Jordan
+55,Cap 3,Fashion,1911.49,3216.6,148,Mccormick Group
+56,Cap 4,Fashion,132.03,234.11,40,Peck PLC
+57,Cap 5,Fashion,725.41,1063.03,131,"Chaney, Kelly and Santana"
+58,Blender 1,Home,467.27,792.85,138,Hernandez-Richmond
+59,Blender 2,Home,1869.4,3024.13,70,Ramirez-Bennett
+60,Blender 3,Home,262.99,432.5,122,"King, Mann and Yu"
+61,Blender 4,Home,522.79,837.46,271,"Smith, Peterson and Oliver"
+62,Blender 5,Home,490.06,656.53,51,Carr PLC
+63,Blender 6,Home,855.94,1395.54,51,Francis Ltd
+64,Lamp 1,Home,60.1,91.97,80,Patel-Walker
+65,Lamp 2,Home,843.47,1485.37,243,"Leonard, Adkins and Welch"
+66,Lamp 3,Home,981.02,1294.63,147,Taylor LLC
+67,Lamp 4,Home,676.28,1073.62,45,"Thomas, Rice and Walker"
+68,Cushion 1,Home,1093.55,1786.72,19,"Lawson, Burnett and Webb"
+69,Cushion 2,Home,1830.8,2389.27,90,Gutierrez Ltd
+70,Cushion 3,Home,1871.15,2286.18,203,Munoz-Nielsen
+71,Cushion 4,Home,1586.52,2081.18,148,King LLC
+72,Curtains 1,Home,68.07,104.88,54,"Owen, Perkins and Hanson"
+73,Curtains 2,Home,1860.49,2606.59,232,"Shaffer, Smith and Johnson"
+74,Curtains 3,Home,1978.74,3019.52,252,Lawrence PLC
+75,Mirror 1,Home,1709.57,2531.55,98,Williams Group
+76,Mirror 2,Home,1627.19,2275.48,234,"Garza, Robinson and Juarez"
+77,Mirror 3,Home,1314.16,2143.6,7,"Gibbs, Brown and Chan"
+78,Mirror 4,Home,1486.4,2488.92,290,Carey-Diaz
+79,Rug 1,Home,392.22,672.14,207,Baird Group
+80,Rug 2,Home,1662.63,2509.19,44,Sullivan Inc
+81,Rug 3,Home,831.62,1045.54,71,Lloyd-Yates
+82,Rug 4,Home,981.04,1728.1,3,Ferguson-Johnson
+83,Perfume 1,Beauty,797.97,1171.45,136,Ortiz-Moses
+84,Perfume 2,Beauty,1910.37,2638.54,293,"Brooks, Kaufman and Wade"
+85,Perfume 3,Beauty,72.3,115.12,120,Reynolds Inc
+86,Perfume 4,Beauty,171.14,217.51,157,"Lloyd, James and Johnson"
+87,Perfume 5,Beauty,361.45,582.53,159,"Schmidt, Brown and Strong"
+88,Lotion 1,Beauty,1295.49,2285.74,188,"Morgan, Morris and Wilson"
+89,Lotion 2,Beauty,1248.52,1662.38,68,Beck-Riddle
+90,Lotion 3,Beauty,982.45,1447.14,191,Black and Sons
+91,Shampoo 1,Beauty,1418.78,2479.57,275,"Ramsey, Powers and Johnson"
+92,Shampoo 2,Beauty,1613.89,2736.13,126,Ford LLC
+93,Shampoo 3,Beauty,1376.67,2144.15,41,Griffin Group
+94,Shampoo 4,Beauty,1074.74,1630.28,185,"Garcia, Wagner and House"
+95,Shampoo 5,Beauty,202.3,311.24,31,Ramirez-Buckley
+96,Shampoo 6,Beauty,1666.11,2901.92,103,Moses-Carr
+97,Lipstick 1,Beauty,370.85,635.15,226,"Evans, Fitzgerald and Lee"
+98,Lipstick 2,Beauty,276.67,366.1,298,"Rodriguez, Price and Lewis"
+99,Lipstick 3,Beauty,1003.21,1744.92,228,"Long, Sharp and Howe"
+100,Lipstick 4,Beauty,1626.95,1494.67,262,Melendez-Bowen
+101,Sunscreen 1,Beauty,940.76,1161.5,236,"Marshall, Nunez and Spence"
+102,Sunscreen 2,Beauty,1361.9,1886.1,11,Hernandez and Sons
+103,Sunscreen 3,Beauty,822.1,1389.24,111,"Brown, Mccoy and Clark"
+104,Sunscreen 4,Beauty,1177.71,1445.25,176,Gallegos-Smith
+105,Sunscreen 5,Beauty,1415.75,2158.59,30,Young LLC
+106,Sunscreen 6,Beauty,1872.44,2324.47,241,"Jackson, Riley and Jones"
+107,Novel 1,Books,609.83,797.65,69,Nguyen-Gonzales
+108,Novel 2,Books,1543.36,2757.98,215,"Arnold, Robinson and Lyons"
+109,Novel 3,Books,780.2,1353.49,229,"Thomas, Hughes and Romero"
+110,Notebook 1,Books,782.51,1259.56,276,"Garcia, Beck and Nguyen"
+111,Notebook 2,Books,309.33,530.86,60,Boyd LLC
+112,Notebook 3,Books,398.02,605.93,270,Herring Inc
+113,Notebook 4,Books,298.33,533.19,1,Anderson-Burnett
+114,Notebook 5,Books,1524.55,2724.51,237,"Brown, Frost and Smith"
+115,Notebook 6,Books,1363.32,2081.34,272,Snow-Miller
+116,Comic 1,Books,1655.55,2232.52,177,Wood Inc
+117,Comic 2,Books,352.49,462.85,57,Martin Group
+118,Comic 3,Books,112.82,180.07,8,Chan-Santiago
+119,Comic 4,Books,519.3,644.13,17,"Fernandez, Murphy and Richard"
+120,Comic 5,Books,920.56,1475.85,24,Alvarez-Hansen
+121,Comic 6,Books,527.23,646.67,224,Parrish PLC
+122,Biography 1,Books,1102.53,1822.08,28,Miller-Mills
+123,Biography 2,Books,323.26,580.6,119,Hunter-Hickman
+124,Biography 3,Books,1640.78,2689.09,163,Nichols-Carlson
+125,Biography 4,Books,1176.08,1956.44,164,Reed PLC
+126,Cookbook 1,Books,638.44,821.01,266,Barnes-Sims
+127,Cookbook 2,Books,481.03,663.97,31,Graham and Sons
+128,Cookbook 3,Books,1135.6,1765.86,89,"Richards, Wallace and Martin"
+129,Cookbook 4,Books,1270.69,1850.53,253,Robbins Inc
+130,Yoga Mat 1,Sports,1945.97,3434.54,195,Hernandez Ltd
+131,Yoga Mat 2,Sports,1582.32,2201.39,213,Hammond LLC
+132,Yoga Mat 3,Sports,846.11,1167.58,94,"Grant, Peters and Hunt"
+133,Dumbbell 1,Sports,519.89,694.16,73,"Duncan, Bradley and Bailey"
+134,Dumbbell 2,Sports,1621.26,2835.33,287,"Underwood, Erickson and Cook"
+135,Dumbbell 3,Sports,854.72,1239.26,271,"Ho, Robinson and Sanchez"
+136,Dumbbell 4,Sports,311.48,419.16,104,Kelly Inc
+137,Dumbbell 5,Sports,694.01,865.74,230,"Frazier, Benson and Johnson"
+138,Dumbbell 6,Sports,1701.91,2136.71,97,Lopez LLC
+139,Football 1,Sports,573.5,920.01,20,Warren Group
+140,Football 2,Sports,1753.56,2302.25,300,"Rodriguez, Vaughan and Chambers"
+141,Football 3,Sports,1462.4,2245.24,245,"Osborn, Delgado and Sanchez"
+142,Running Shoes 1,Sports,1745.47,2443.27,7,"Lowery, Wilkerson and Barnes"
+143,Running Shoes 2,Sports,463.03,608.43,60,Wilson and Sons
+144,Running Shoes 3,Sports,1506.41,2489.49,124,Ali Ltd
+145,Running Shoes 4,Sports,1406.47,2281.66,203,"Morgan, Day and Hopkins"
+146,Bicycle 1,Sports,1126.55,1876.05,194,Sandoval-Lowe
+147,Bicycle 2,Sports,959.19,1524.38,157,"Page, Anderson and Wong"
+148,Bicycle 3,Sports,560.05,844.38,254,Adams Group
+149,Bicycle 4,Sports,958.71,1612.25,240,"Stout, Johnson and Martinez"
